@@ -32,3 +32,7 @@ Les commandes sont appelées dans /home/pi/Kali-Pi/Menus/menu-x.py Des fonctions
 
 vim .bashrc
   alias menu='/home/pi/Kali-Pi/menu'
+  
+  
+Le répertoire "old python" contient les scripts en Python. J'ai par la suite décidé de les réécrire en Bash.
+Je les laisse cependant à disposition au cas ou...
