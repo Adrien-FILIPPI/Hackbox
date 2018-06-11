@@ -1,6 +1,6 @@
 Hackbox
 
-La hackbox est un dispositif d'audit de sécurité depuis une Raspberry Pi permettant de générer un rapport du SI.
+La hackbox est un dispositif d'audit de sécurité depuis un Raspberry Pi permettant de générer un rapport du SI.
 
 ##Installation de Kali sur la Raspberry et configuration de l'écran
 
